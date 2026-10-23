@@ -50,15 +50,15 @@ body {
 }
 
 .home {
-    height: 583px;
-    padding: 0px 9%;
+    height: 600px;
+    padding: 0px 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .left {
-    width: 48%;
+    width: 50%;
 }
 
 .left h1 {
@@ -222,7 +222,7 @@ body {
     font-size: 22px;
 }
 
-.review-info {
+.review {
     flex: 1;
 }
 
